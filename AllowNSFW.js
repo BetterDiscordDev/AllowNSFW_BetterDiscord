@@ -1,4 +1,4 @@
-//META{"name":"AllowNSFW","authorId":"938876130897829938","website":"https://github.com/BlakeDeveloper", "https://github.com/Blake123231/AllowNSFW_BetterDiscord/"}*//
+//META{"name":"AllowNSFW","authorId":"938876130897829938","website":"https://github.com/BlakeDeveloper", "https://github.com/Blake123231/AllowNSFW_BetterDiscord/blob/main/AllowNSFW.js"}*//
 
 module.exports = class AllowNSFW {
     getName() {return "AllowNSFW";}
